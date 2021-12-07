@@ -1,7 +1,7 @@
 # Clustering-Neuronal-Signals
 
 The intracerebral local field potential (LFP) is a measure of brain activity that reflects the highly dynamic flow of information across neural networks. <br />
-In this project, I,ve worked on different algorithms (Kmeans, DBscan, t-SNE, PCA) and neuron-specific features (source/sink, peaks, stimulus response latency, firing rate, ...) to cluster LFP signals captured from monkey's brain activity in order to check if there are any differences in different cortical layers and eccentricities of its brain. <br />
+In this project, I've worked on different algorithms (Kmeans, DBscan, t-SNE, PCA) and neuron-specific features (source/sink, peaks, stimulus response latency, firing rate, ...) to cluster LFP signals captured from monkey's brain activity in order to check if there are any differences in different cortical layers and eccentricities of its brain. <br />
 
 Here you can see the result of this code on a testcase of neuronal signals:
 
